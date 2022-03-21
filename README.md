@@ -39,15 +39,15 @@ What if that possible to predict someone to no-show an appointment?
 <h5>Scope:</h5>
 Our scope in this investigation is to Assess, Clean, Investigate The Data and retreive answers for below questions:
 <ul>
-    <li><a href="#q1">Research Question 1</a> (in General, regardless all other values, plot the percentage of Show and No-Show frequency!)</li>
-    <li><a href="#q2">Research Question 2</a>  (How The Gender Type impacts the Show and No Show Frequency and Percentage!)</li>
-    <li><a href="#q3">Research Question3</a> (How The Scheduled Weekday impacts the Show and No Show Frequency and Percentage!)</li>
-    <li><a href="#q4">Research Question 4</a> (How the Days difference between Appointment Day and Scheduled Day impacts the Show and No Show Frequency and Percentage!)</li>
-    <li><a href="#q5">Research Question 5</a> (Highest City has the Most Show!)</li>
-    <li><a href="#q6">Research Question 6</a> (How Scholarship impacts the Show and No Show Frequency and Percentage!)</li>
-    <li><a href="#q7">Research Question 7</a> (How Diseases impacts the Show and No Show Frequency and Percentage!)</li>
-    <li><a href="#q8">Research Question 8</a> (Does Handicap Grades affects the Show status!)</li>
-    <li><a href="#q9">Research Question 9</a> (How Alcoholism Status impacts the Show and No Show Frequency and Percentage!)</li>
-    <li><a href="#q10">Research Question 10</a>  (Does Sending SMS to Patients affects the Show status!)</li>
-    <li><a href="#q11">Research Question 11</a> (Average Age of Show and No Show!)</li>
+    <li>Research Question 1 (in General, regardless all other values, plot the percentage of Show and No-Show frequency!)</li>
+    <li>Research Question 2  (How The Gender Type impacts the Show and No Show Frequency and Percentage!)</li>
+    <li>Research Question 3 (How The Scheduled Weekday impacts the Show and No Show Frequency and Percentage!)</li>
+    <li>Research Question 4 (How the Days difference between Appointment Day and Scheduled Day impacts the Show and No Show Frequency and Percentage!)</li>
+    <li>Research Question 5 (Highest City has the Most Show!)</li>
+    <li>Research Question 6 (How Scholarship impacts the Show and No Show Frequency and Percentage!)</li>
+    <li>Research Question 7 (How Diseases impacts the Show and No Show Frequency and Percentage!)</li>
+    <li>Research Question 8 (Does Handicap Grades affects the Show status!)</li>
+    <li>Research Question 9 (How Alcoholism Status impacts the Show and No Show Frequency and Percentage!)</li>
+    <li>Research Question 10  (Does Sending SMS to Patients affects the Show status!)</li>
+    <li>Research Question 11 (Average Age of Show and No Show!)</li>
 </ul>
